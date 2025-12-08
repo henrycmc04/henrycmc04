@@ -15,4 +15,3 @@ I'm a Computer Engineering student at the University of Pisa.
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/henrycmc04) 
 
----
